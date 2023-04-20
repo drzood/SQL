@@ -89,3 +89,8 @@ SELECT
 		)
 	) AS 'full_order_status'
 FROM orders;
+
+/*
+4. Чем 0 отличается от NULL?
+Своими словами: ноль имеет вес, NULL не имеет веса.
+*/
